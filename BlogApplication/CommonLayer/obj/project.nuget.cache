@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "T4hOoKJ4YurBAIR48nJzzh03NrzcRNf/eUpDqRjaGbwwODnZR5Fin/WsnP7aJizqPlxapGjdR3/Yha3Sdq9XKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\BlogApplication\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HindhujhaSridhar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.11\\microsoft.aspnetcore.cryptography.internal.3.1.11.nupkg.sha512",
+    "C:\\Users\\HindhujhaSridhar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.11\\microsoft.aspnetcore.cryptography.keyderivation.3.1.11.nupkg.sha512",
+    "C:\\Users\\HindhujhaSridhar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\HindhujhaSridhar\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.18.0\\microsoft.identitymodel.abstractions.6.18.0.nupkg.sha512",
+    "C:\\Users\\HindhujhaSridhar\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.18.0\\microsoft.identitymodel.jsonwebtokens.6.18.0.nupkg.sha512",
+    "C:\\Users\\HindhujhaSridhar\\.nuget\\packages\\microsoft.identitymodel.logging\\6.18.0\\microsoft.identitymodel.logging.6.18.0.nupkg.sha512",
+    "C:\\Users\\HindhujhaSridhar\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.18.0\\microsoft.identitymodel.tokens.6.18.0.nupkg.sha512",
+    "C:\\Users\\HindhujhaSridhar\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.18.0\\system.identitymodel.tokens.jwt.6.18.0.nupkg.sha512",
+    "C:\\Users\\HindhujhaSridhar\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

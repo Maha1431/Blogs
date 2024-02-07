@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=PA-5CG144123X;Initial Catalog=BlogApplication;User ID=AzureAD/HindhujhaSridhar;Password=Hindhu17" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities -f

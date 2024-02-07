@@ -1,0 +1,15 @@
+C:\Projects\BlogApplication\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Projects\BlogApplication\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Projects\BlogApplication\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Projects\BlogApplication\ServiceLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Projects\BlogApplication\ServiceLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Projects\BlogApplication\ServiceLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Projects\BlogApplication\ServiceLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Projects\BlogApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.AssemblyReference.cache
+C:\Projects\BlogApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BlogApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Projects\BlogApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Projects\BlogApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Projects\BlogApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Projects\BlogApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Projects\BlogApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb

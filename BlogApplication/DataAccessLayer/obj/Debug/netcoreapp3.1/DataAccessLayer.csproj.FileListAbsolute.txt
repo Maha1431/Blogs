@@ -1,0 +1,16 @@
+C:\Projects\BlogApplication\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Projects\BlogApplication\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+C:\Projects\BlogApplication\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Projects\BlogApplication\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Projects\BlogApplication\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Projects\BlogApplication\DataAccessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Projects\BlogApplication\DataAccessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Projects\BlogApplication\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Projects\BlogApplication\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BlogApplication\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Projects\BlogApplication\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Projects\BlogApplication\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Projects\BlogApplication\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+C:\Projects\BlogApplication\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Projects\BlogApplication\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Projects\BlogApplication\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
